@@ -1,5 +1,7 @@
 {
-     "TOKEN": "BOT APPLICATION TOKEN"
+     "TOKEN": "BOT APPLICATION TOKEN",
+     "PREFIX": "",
+     "COLORS": ["", "", "", ""]
 }
 
 //https://discordapp.com/developers/applications/
