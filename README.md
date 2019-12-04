@@ -4,6 +4,6 @@
 ## Add to your Server 🐥
 > Coming soon... 
 
-## Commands 🐡
-- `help`
-- `set <slowmode/prefix>`
+## Commands 🗿
+- `s.help`
+- `s.set <slowmode/prefix>`
